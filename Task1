@@ -1,60 +1,43 @@
 <!DOCTYPE html>
-        
         <title>
              Task1
         </title>
         <head>
                 
         </head>
-
         <body>
-
-            <div>
-                        
+                <div>
                           <h1> Creating header h1</h1>
                           <h2> Creating header h2</h2>
                           <h3> Creating header h3</h3>
                           <h4> Creating header h4</h4>
                           <h5> Creating header h5</h5>
                           <h6> Creating header h6</h6>
-            </div>
+                </div>
             
-            <div>
+                <div>
                         <h1>Microsoft Azure</h1>
-                <p> 
-                <span style="color:blue">Microsoft Azure</span> is a platform as a service (PaaS) solution for building and hosting solutions using  Microsoft products and in their data centers. It is a comprehensive suite of cloud products that allow users to create enterprise-class applications without having to build out their own infrastructure.
-                </p>
+                        <p> 
+                                <span style="color:blue">Microsoft Azure</span> is a platform as a service (PaaS) solution for building and hosting solutions using  Microsoft products and in their data centers. It is a comprehensive suite of cloud products that allow users to create enterprise-class applications without having to build out their own infrastructure.
+                        </p>
+                        <p>
+                                <a href="https://www.techopedia.com/definition/26673/microsoft-azure">Click here</a> to know about Microsoft Azure
+                        </p>
             
-                <p><a href="https://www.techopedia.com/definition/26673/microsoft-azure">Click here</a> to know about Microsoft Azure</p>
-            
-            </div>
-            <div>
+                </div>
+                <div>
                       <p>Services provided by the <strong>Cloud</strong> </p>
-                      
                       <ul>
-                      
                                 <li>Iaas</li>
                                 <li>Paas</li>
                                 <li>Saas</li>
-                      
                       </ul>
                       <p>Services provided by the <strong>Cloud</strong> </p>
-                      
                       <ol>
-                      
                                 <li>Iaas</li>
                                 <li>Paas</li>
                                 <li>Saas</li>
-                      
-                      </ol>
-            
-            </div>
-            
-            
-
-
-        </body>
-        
-
-
-</html>
+                       </ol>
+                 </div>
+            </body>
+ </html>
